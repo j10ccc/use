@@ -8,7 +8,7 @@ Things I am using.
 	- With [vim extension](https://open-vsx.org/extension/vscodevim/vim)
 - [Neovim](https://neovim.io)
 	- With preset [AstroNvim](https://astronvim.com)
-	- View config in [j10ccc/dotfiles](https://github.com/j10ccc/dotfiles)
+	- View config in [j10ccc/astronvim-config](https://github.com/j10ccc/astronvim-config)
 - Theme: [Nord](https://www.nordtheme.com)
 - Font: BlexMono Nerd Font
 - Formatting & Linting: ESLint with [`@j10c/eslint-config`](https://github.com/j10ccc/eslint-config)
