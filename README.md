@@ -15,10 +15,11 @@ Things I am using.
 
 ## Hardware
 
-- Laptop: Macbook Air 13' M2 24GB
+- Laptop: MacBook Air 13' M2 24GB
+- Laptop(for business): MacBook Pro 14' M3Pro 36GB
 - Linux PC: Intel NUC 11 40GB
 - Monitor: AOC U27N3C
-- Mouse: Apple Magic Trackpad
+- Mouse: Apple Magic Trackpad(Black)
 - Keyboard: HHKB Hybrid Snow & HHKB Professional2 2016 (Both Type-S)
 
 ## CLI
