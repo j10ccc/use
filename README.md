@@ -4,7 +4,7 @@ Things I am using.
 
 ## Editor
 
-- [VSCodium](https://vscodium.com) (Only for most fe development)
+- [VSCodium](https://vscodium.com) (For usual development)
 	- With [vim extension](https://open-vsx.org/extension/vscodevim/vim)
 - [Neovim](https://neovim.io)
 	- With core plugin [AstroNvim](https://astronvim.com)
@@ -19,7 +19,8 @@ Things I am using.
 - Laptop(for business): MacBook Pro 14' M3Pro 36GB
 - Linux PC: Intel NUC 11 40GB
 - Monitor: AOC U27N3C
-- Mouse: Apple Magic Trackpad(Black)
+- Trackpad: Apple Magic Trackpad(Black & White)
+- Mouse: Logi MX Master 3S
 - Keyboard: HHKB Hybrid Snow & HHKB Professional2 2016 (Both Type-S)
 
 ## CLI
@@ -34,4 +35,4 @@ Things I am using.
 - [`ripgrep`](https://github.com/BurntSushi/ripgrep) - Match content just start with `rg`!
 - [`eslint`](https://eslint.org/) - Linter & formatter
 	- View config in [j10ccc/eslint-config](https://github.com/j10ccc/eslint-config)
-	
+- [`antfu/ni`](https://github.com/antfu-collective/ni) - NPM commands shorthands
